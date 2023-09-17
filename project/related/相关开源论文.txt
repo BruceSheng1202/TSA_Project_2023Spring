@@ -1,0 +1,16 @@
+https://github.com/vrunge/gfpop
+
+https://github.com/pfryz/nsp
+
+https://github.com/pfryz/wild-binary-segmentation-2.0
+
+https://github.com/rcrupi/deepgrb
+
+https://github.com/karl-hallgren/mvsum
+
+https://github.com/euanmcgonigle/tavc.seg
+
+https://github.com/haeran-cho/wcm.gsa
+
+https://github.com/aliehrmann/msfpop
+
